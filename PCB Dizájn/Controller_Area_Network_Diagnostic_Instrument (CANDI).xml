@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Skublics Imre\Asztal\Operation Scavanger\work\7.félév\Szakdoga\Controller_Area_Network_Diagnostic_Instrument (CANDI)\IC Design\Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch</source>
+    <date>2023. 11. 23. 5:48:49</date>
+    <tool>Eeschema (7.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.22uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7628aa09-de8d-431e-b660-60965bb67d96</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>875431b7-d9bb-49b7-b599-7c303fbb4350</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.00mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee87ddf2-faea-460c-8b1f-f525f8a02a56</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>4.7uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D7.5mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec3f2121-2f71-4326-91b9-28add0d335d4</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>560pF</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9364dca-d613-48d6-8203-9d490e1ddfa8</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>560pF</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6b27696-77bc-44f6-943d-feebe5a68920</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>10uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e71f0e38-378b-483b-a39d-6ab322447f17</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4529bed-f32f-4528-b99c-6a87b755199e</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>SB570</value>
+      <footprint>Diode_THT:D_5W_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2268a1e0-928e-4301-acda-0728cd001667</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>BZX55C3V6</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Zener diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec2d4bca-b41a-48c8-b380-a92f42cb52cf</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>BZX55C9V1</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Zener diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c9a570c-048e-41c7-acac-c2c4fe6175b2</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>BZX55C3V6</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Zener diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbf7bef5-35e2-4a37-b6e5-e4fd0b1ea4f8</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>SB570</value>
+      <footprint>Diode_THT:D_5W_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6255fbe8-e332-4d46-ac01-c77cac24f096</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62d46fa1-c5bd-474e-b1e4-cc65365a5f03</tstamps>
+    </comp>
+    <comp ref="DMX_1">
+      <value>74HC4051</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/cd74hc4051.pdf</datasheet>
+      <libsource lib="74xx" part="74HC4051" description="8-channel analog multiplexer/demultiplexer, DIP-16/SOIC-16/TSSOP-16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="8-channel analog multiplexer/demultiplexer, DIP-16/SOIC-16/TSSOP-16"/>
+      <property name="ki_keywords" value="HCMOS Multiplexer Demultiplexer Analog"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06989f05-f2d3-492e-95cf-f97cad38f3ce</tstamps>
+    </comp>
+    <comp ref="DMX_2">
+      <value>74HC4051</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/cd74hc4051.pdf</datasheet>
+      <libsource lib="74xx" part="74HC4051" description="8-channel analog multiplexer/demultiplexer, DIP-16/SOIC-16/TSSOP-16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="8-channel analog multiplexer/demultiplexer, DIP-16/SOIC-16/TSSOP-16"/>
+      <property name="ki_keywords" value="HCMOS Multiplexer Demultiplexer Analog"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f88537c7-949d-480c-a2ab-12ae7f3cbf0b</tstamps>
+    </comp>
+    <comp ref="DMX_3">
+      <value>74HC4051</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/cd74hc4051.pdf</datasheet>
+      <libsource lib="74xx" part="74HC4051" description="8-channel analog multiplexer/demultiplexer, DIP-16/SOIC-16/TSSOP-16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="8-channel analog multiplexer/demultiplexer, DIP-16/SOIC-16/TSSOP-16"/>
+      <property name="ki_keywords" value="HCMOS Multiplexer Demultiplexer Analog"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>662eb010-9fcd-459f-8720-2441fcd6b1c3</tstamps>
+    </comp>
+    <comp ref="DMX_4">
+      <value>74HC4051</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/cd74hc4051.pdf</datasheet>
+      <libsource lib="74xx" part="74HC4051" description="8-channel analog multiplexer/demultiplexer, DIP-16/SOIC-16/TSSOP-16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="8-channel analog multiplexer/demultiplexer, DIP-16/SOIC-16/TSSOP-16"/>
+      <property name="ki_keywords" value="HCMOS Multiplexer Demultiplexer Analog"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0fdd172b-09d7-4175-91e3-582c1b03c570</tstamps>
+    </comp>
+    <comp ref="DMX_5">
+      <value>74HC4051</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/cd74hc4051.pdf</datasheet>
+      <libsource lib="74xx" part="74HC4051" description="8-channel analog multiplexer/demultiplexer, DIP-16/SOIC-16/TSSOP-16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="8-channel analog multiplexer/demultiplexer, DIP-16/SOIC-16/TSSOP-16"/>
+      <property name="ki_keywords" value="HCMOS Multiplexer Demultiplexer Analog"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>401d4d15-2b66-47f4-830c-2c3209977382</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eae03336-cbbc-4504-b6fd-dead5306cacc</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20bbeb77-21cb-4bee-88cc-4489eda54a51</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3bc29f77-7bcf-44ee-8bf3-6cdb1cfa17d6</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56f24e02-3889-4c8d-807b-711387667130</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Screw_Terminal_01x05</value>
+      <footprint>Connector_TE-Connectivity:TE_826576-5_1x05_P3.96mm_Vertical</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x05" description="Generic screw terminal, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>889f1ce9-dfc1-4990-8aae-b57d9ffc813b</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Jack-DC (9V+charge) </value>
+      <footprint>Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal</footprint>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="DC Barrel Jack"/>
+      <property name="ki_keywords" value="DC power barrel jack connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0dcde267-5e73-4e21-9b7a-2a11b6321d2b</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Screw_Terminal_01x05</value>
+      <footprint>Connector_TE-Connectivity:TE_826576-5_1x05_P3.96mm_Vertical</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x05" description="Generic screw terminal, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5badf22b-d56b-4cf5-8025-ff05695a5f48</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Screw_Terminal_01x05</value>
+      <footprint>Connector_TE-Connectivity:TE_826576-5_1x05_P3.96mm_Vertical</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x05" description="Generic screw terminal, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d4908a1-7fd6-435b-83f2-224b62b621df</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x15_Socket</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x15_Socket" description="Generic connector, single row, 01x15, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x15, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca46f599-f15f-4b9a-9bac-a3daa7ead8b0</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x15_Socket</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x15_Socket" description="Generic connector, single row, 01x15, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x15, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d46b4283-fcaf-4f3f-8874-f57dea7c251f</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>BS250</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>http://www.vishay.com/docs/70209/70209.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="BS250" description="-0.18A Id, -45V Vds, P-Channel MOSFET, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="-0.18A Id, -45V Vds, P-Channel MOSFET, TO-92"/>
+      <property name="ki_keywords" value="P-Channel MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9520864f-65c6-453c-a595-3ab2b10f3a50</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>120R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>222829ba-4d72-4337-8d9d-441f930732de</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1471151a-2a4d-45ca-b651-b397f93b29b6</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>911dc3b7-8ce5-493a-9e0d-65eb67082378</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e359b8f0-908e-48b7-95a4-e9934f832c7e</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6573af61-35c2-4f2b-bb28-2c3134947712</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c10b9426-2e68-46ea-96dd-a9c5e136cc77</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>100R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43b6db29-299e-4744-a65a-91b5bfb14bcf</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>100R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc02071d-5719-4b73-9953-3576a1c90bb7</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>500</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a78e843b-6344-45db-aae4-e83f42b1de4f</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>500</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a21cc219-f4d7-48d5-a38a-26dd9c62c826</tstamps>
+    </comp>
+    <comp ref="SHIFT_REG_1">
+      <value>74HC164</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/74HC_HCT164.pdf</datasheet>
+      <libsource lib="74xx" part="74HC164" description="8-bit serial-in parallel-out shift register"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="8-bit serial-in parallel-out shift register"/>
+      <property name="ki_keywords" value="8-bit shift register"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74a1ac3b-eea1-48c2-8fbd-d5fd61a1a086</tstamps>
+    </comp>
+    <comp ref="SHIFT_REG_2">
+      <value>74HC164</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/74HC_HCT164.pdf</datasheet>
+      <libsource lib="74xx" part="74HC164" description="8-bit serial-in parallel-out shift register"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="8-bit serial-in parallel-out shift register"/>
+      <property name="ki_keywords" value="8-bit shift register"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7855bb07-ad91-4e4e-8fb8-5cfa1f7d8a47</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_DIP_x03</value>
+      <footprint>Button_Switch_THT:SW_DIP_SPSTx03_Slide_9.78x9.8mm_W7.62mm_P2.54mm</footprint>
+      <libsource lib="Switch" part="SW_DIP_x03" description="3x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="3x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"/>
+      <property name="ki_keywords" value="dip switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>857826de-92e0-4775-a007-a3084f1c8ec8</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM7805_TO220</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF</datasheet>
+      <libsource lib="Regulator_Linear" part="LM7805_TO220" description="Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220"/>
+      <property name="ki_keywords" value="Voltage Regulator 1A Positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75760cd7-a3f0-43e3-8152-59c26ae2bf08</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>MCP2551-I-P</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/devicedoc/21667d.pdf</datasheet>
+      <libsource lib="Interface_CAN_LIN" part="MCP2551-I-P" description="High-Speed CAN Transceiver, 1Mbps, 5V supply, DIP-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="High-Speed CAN Transceiver, 1Mbps, 5V supply, DIP-8"/>
+      <property name="ki_keywords" value="High-Speed CAN Transceiver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7035710-861e-4448-a30c-b626a7250cde</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>AMS1117</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.advanced-monolithic.com/pdf/ds1117.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="AMS1117" description="1A Low Dropout regulator, positive, adjustable output, SOT-223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Controller_Area_Network_Diagnostic_Instrument (CANDI).kicad_sch"/>
+      <property name="ki_description" value="1A Low Dropout regulator, positive, adjustable output, SOT-223"/>
+      <property name="ki_keywords" value="linear regulator ldo adjustable positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89c9688b-ae56-4556-a7c1-9765aaf56263</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="74xx" part="74HC164">
+      <description>8-bit serial-in parallel-out shift register</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/74HC_HCT164.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x8.7*P1.27mm*</fp>
+        <fp>?SSOP*P0.65mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74HC164</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/74HC_HCT164.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DSA" type="input"/>
+        <pin num="2" name="DSB" type="input"/>
+        <pin num="3" name="Q0" type="output"/>
+        <pin num="4" name="Q1" type="output"/>
+        <pin num="5" name="Q2" type="output"/>
+        <pin num="6" name="Q3" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="CP" type="input"/>
+        <pin num="9" name="~{MR}" type="input"/>
+        <pin num="10" name="Q4" type="output"/>
+        <pin num="11" name="Q5" type="output"/>
+        <pin num="12" name="Q6" type="output"/>
+        <pin num="13" name="Q7" type="output"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74HC4051">
+      <description>8-channel analog multiplexer/demultiplexer, DIP-16/SOIC-16/TSSOP-16</description>
+      <docs>http://www.ti.com/lit/ds/symlink/cd74hc4051.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC*3.9x9.9mm*P1.27mm*</fp>
+        <fp>SOIC*5.3x10.2mm*P1.27mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74HC4051</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/cd74hc4051.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A4" type="passive"/>
+        <pin num="2" name="A6" type="passive"/>
+        <pin num="3" name="A" type="passive"/>
+        <pin num="4" name="A7" type="passive"/>
+        <pin num="5" name="A5" type="passive"/>
+        <pin num="6" name="~{E}" type="input"/>
+        <pin num="7" name="VEE" type="power_in"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="S2" type="input"/>
+        <pin num="10" name="S1" type="input"/>
+        <pin num="11" name="S0" type="input"/>
+        <pin num="12" name="A3" type="passive"/>
+        <pin num="13" name="A0" type="passive"/>
+        <pin num="14" name="A1" type="passive"/>
+        <pin num="15" name="A2" type="passive"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x15_Socket">
+      <description>Generic connector, single row, 01x15, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x15_Socket</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Jack-DC">
+      <description>DC Barrel Jack</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Jack-DC</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x05">
+      <description>Generic screw terminal, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x05</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+        <field name="Datasheet">~</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Zener">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_CAN_LIN" part="MCP2551-I-P">
+      <description>High-Speed CAN Transceiver, 1Mbps, 5V supply, DIP-8</description>
+      <docs>http://ww1.microchip.com/downloads/en/devicedoc/21667d.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP2551-I-P</field>
+        <field name="Footprint">Package_DIP:DIP-8_W7.62mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/devicedoc/21667d.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TXD" type="input"/>
+        <pin num="2" name="VSS" type="power_in"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="RXD" type="output"/>
+        <pin num="5" name="Vref" type="power_out"/>
+        <pin num="6" name="CANL" type="bidirectional"/>
+        <pin num="7" name="CANH" type="bidirectional"/>
+        <pin num="8" name="Rs" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AMS1117">
+      <description>1A Low Dropout regulator, positive, adjustable output, SOT-223</description>
+      <docs>http://www.advanced-monolithic.com/pdf/ds1117.pdf</docs>
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AMS1117</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ADJ" type="input"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LM7805_TO220">
+      <description>Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220</description>
+      <docs>https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF</docs>
+      <footprints>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM7805_TO220</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VI" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_DIP_x03">
+      <description>3x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SW?DIP?x3*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_DIP_x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="BS250">
+      <description>-0.18A Id, -45V Vds, P-Channel MOSFET, TO-92</description>
+      <docs>http://www.vishay.com/docs/70209/70209.pdf</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BS250</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">http://www.vishay.com/docs/70209/70209.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D" type="passive"/>
+        <pin num="2" name="G" type="input"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xx">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/74xx.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Interface_CAN_LIN">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Interface_CAN_LIN.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="DMX_1" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="DMX_2" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="DMX_3" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="DMX_4" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="DMX_5" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="J5" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="SHIFT_REG_1" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="SHIFT_REG_1" pin="2" pinfunction="DSB" pintype="input"/>
+      <node ref="SHIFT_REG_2" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="SHIFT_REG_2" pin="2" pinfunction="DSB" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="2" name="+5VD">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="3" name="CAN_GND">
+      <node ref="DMX_1" pin="14" pinfunction="A1" pintype="passive"/>
+      <node ref="DMX_2" pin="14" pinfunction="A1" pintype="passive"/>
+      <node ref="DMX_3" pin="14" pinfunction="A1" pintype="passive"/>
+      <node ref="DMX_4" pin="14" pinfunction="A1" pintype="passive"/>
+      <node ref="DMX_5" pin="14" pinfunction="A1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="SW1" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="CAN_HI">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="DMX_1" pin="12" pinfunction="A3" pintype="passive"/>
+      <node ref="DMX_2" pin="12" pinfunction="A3" pintype="passive"/>
+      <node ref="DMX_3" pin="12" pinfunction="A3" pintype="passive"/>
+      <node ref="DMX_4" pin="12" pinfunction="A3" pintype="passive"/>
+      <node ref="DMX_5" pin="12" pinfunction="A3" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="CANH" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="CAN_LO">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="DMX_1" pin="1" pinfunction="A4" pintype="passive"/>
+      <node ref="DMX_2" pin="1" pinfunction="A4" pintype="passive"/>
+      <node ref="DMX_3" pin="1" pinfunction="A4" pintype="passive"/>
+      <node ref="DMX_4" pin="1" pinfunction="A4" pintype="passive"/>
+      <node ref="DMX_5" pin="1" pinfunction="A4" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="4" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="CANL" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="CAN_SHLD">
+      <node ref="DMX_1" pin="15" pinfunction="A2" pintype="passive"/>
+      <node ref="DMX_2" pin="15" pinfunction="A2" pintype="passive"/>
+      <node ref="DMX_3" pin="15" pinfunction="A2" pintype="passive"/>
+      <node ref="DMX_4" pin="15" pinfunction="A2" pintype="passive"/>
+      <node ref="DMX_5" pin="15" pinfunction="A2" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="7" name="CAN_V+">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="DMX_1" pin="13" pinfunction="A0" pintype="passive"/>
+      <node ref="DMX_2" pin="13" pinfunction="A0" pintype="passive"/>
+      <node ref="DMX_3" pin="13" pinfunction="A0" pintype="passive"/>
+      <node ref="DMX_4" pin="13" pinfunction="A0" pintype="passive"/>
+      <node ref="DMX_5" pin="13" pinfunction="A0" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="SW1" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="DS1">
+      <node ref="J6" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="SHIFT_REG_1" pin="1" pinfunction="DSA" pintype="input"/>
+    </net>
+    <net code="9" name="DS2">
+      <node ref="J6" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="SHIFT_REG_2" pin="1" pinfunction="DSA" pintype="input"/>
+    </net>
+    <net code="10" name="En">
+      <node ref="DMX_1" pin="6" pinfunction="~{E}" pintype="input"/>
+      <node ref="DMX_2" pin="6" pinfunction="~{E}" pintype="input"/>
+      <node ref="DMX_3" pin="6" pinfunction="~{E}" pintype="input"/>
+      <node ref="DMX_4" pin="6" pinfunction="~{E}" pintype="input"/>
+      <node ref="DMX_5" pin="6" pinfunction="~{E}" pintype="input"/>
+      <node ref="J6" pin="14" pinfunction="Pin_14" pintype="passive"/>
+    </net>
+    <net code="11" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="DMX_1" pin="7" pinfunction="VEE" pintype="power_in"/>
+      <node ref="DMX_1" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="DMX_2" pin="7" pinfunction="VEE" pintype="power_in"/>
+      <node ref="DMX_2" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="DMX_3" pin="7" pinfunction="VEE" pintype="power_in"/>
+      <node ref="DMX_3" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="DMX_4" pin="7" pinfunction="VEE" pintype="power_in"/>
+      <node ref="DMX_4" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="DMX_5" pin="7" pinfunction="VEE" pintype="power_in"/>
+      <node ref="DMX_5" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="2" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J5" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J6" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="SHIFT_REG_1" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="SHIFT_REG_2" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="SW1" pin="5" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="ADJ" pintype="input"/>
+    </net>
+    <net code="12" name="In_1">
+      <node ref="DMX_1" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="13" name="In_2">
+      <node ref="DMX_2" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="14" name="In_3">
+      <node ref="DMX_3" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="15" name="In_4">
+      <node ref="DMX_4" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="16" name="In_5">
+      <node ref="DMX_5" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="17" name="MR">
+      <node ref="J6" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="SHIFT_REG_1" pin="9" pinfunction="~{MR}" pintype="input"/>
+      <node ref="SHIFT_REG_2" pin="9" pinfunction="~{MR}" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J2" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D1-K)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="22" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J6" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J6" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D6-A)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="6" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D7-A)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(DMX_1-S0)">
+      <node ref="DMX_1" pin="11" pinfunction="S0" pintype="input"/>
+      <node ref="SHIFT_REG_2" pin="12" pinfunction="Q6" pintype="output"/>
+    </net>
+    <net code="28" name="Net-(DMX_1-S1)">
+      <node ref="DMX_1" pin="10" pinfunction="S1" pintype="input"/>
+      <node ref="SHIFT_REG_2" pin="11" pinfunction="Q5" pintype="output"/>
+    </net>
+    <net code="29" name="Net-(DMX_1-S2)">
+      <node ref="DMX_1" pin="9" pinfunction="S2" pintype="input"/>
+      <node ref="SHIFT_REG_2" pin="10" pinfunction="Q4" pintype="output"/>
+    </net>
+    <net code="30" name="Net-(DMX_2-S0)">
+      <node ref="DMX_2" pin="11" pinfunction="S0" pintype="input"/>
+      <node ref="SHIFT_REG_2" pin="6" pinfunction="Q3" pintype="output"/>
+    </net>
+    <net code="31" name="Net-(DMX_2-S1)">
+      <node ref="DMX_2" pin="10" pinfunction="S1" pintype="input"/>
+      <node ref="SHIFT_REG_2" pin="5" pinfunction="Q2" pintype="output"/>
+    </net>
+    <net code="32" name="Net-(DMX_2-S2)">
+      <node ref="DMX_2" pin="9" pinfunction="S2" pintype="input"/>
+      <node ref="SHIFT_REG_2" pin="4" pinfunction="Q1" pintype="output"/>
+    </net>
+    <net code="33" name="Net-(DMX_3-S0)">
+      <node ref="DMX_3" pin="11" pinfunction="S0" pintype="input"/>
+      <node ref="SHIFT_REG_2" pin="3" pinfunction="Q0" pintype="output"/>
+    </net>
+    <net code="34" name="Net-(DMX_3-S1)">
+      <node ref="DMX_3" pin="10" pinfunction="S1" pintype="input"/>
+      <node ref="SHIFT_REG_1" pin="13" pinfunction="Q7" pintype="output"/>
+    </net>
+    <net code="35" name="Net-(DMX_3-S2)">
+      <node ref="DMX_3" pin="9" pinfunction="S2" pintype="input"/>
+      <node ref="SHIFT_REG_1" pin="12" pinfunction="Q6" pintype="output"/>
+    </net>
+    <net code="36" name="Net-(DMX_4-S0)">
+      <node ref="DMX_4" pin="11" pinfunction="S0" pintype="input"/>
+      <node ref="SHIFT_REG_1" pin="11" pinfunction="Q5" pintype="output"/>
+    </net>
+    <net code="37" name="Net-(DMX_4-S1)">
+      <node ref="DMX_4" pin="10" pinfunction="S1" pintype="input"/>
+      <node ref="SHIFT_REG_1" pin="10" pinfunction="Q4" pintype="output"/>
+    </net>
+    <net code="38" name="Net-(DMX_4-S2)">
+      <node ref="DMX_4" pin="9" pinfunction="S2" pintype="input"/>
+      <node ref="SHIFT_REG_1" pin="6" pinfunction="Q3" pintype="output"/>
+    </net>
+    <net code="39" name="Net-(DMX_5-S0)">
+      <node ref="DMX_5" pin="11" pinfunction="S0" pintype="input"/>
+      <node ref="SHIFT_REG_1" pin="5" pinfunction="Q2" pintype="output"/>
+    </net>
+    <net code="40" name="Net-(DMX_5-S1)">
+      <node ref="DMX_5" pin="10" pinfunction="S1" pintype="input"/>
+      <node ref="SHIFT_REG_1" pin="4" pinfunction="Q1" pintype="output"/>
+    </net>
+    <net code="41" name="Net-(DMX_5-S2)">
+      <node ref="DMX_5" pin="9" pinfunction="S2" pintype="input"/>
+      <node ref="SHIFT_REG_1" pin="3" pinfunction="Q0" pintype="output"/>
+    </net>
+    <net code="42" name="Net-(J6-Pin_5)">
+      <node ref="J6" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(J6-Pin_6)">
+      <node ref="J6" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(Q1-D)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="45" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="3" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(U2-Rs)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="Rs" pintype="input"/>
+    </net>
+    <net code="47" name="RX">
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="TXD" pintype="input"/>
+    </net>
+    <net code="48" name="SCLK">
+      <node ref="J6" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="SHIFT_REG_1" pin="8" pinfunction="CP" pintype="input"/>
+      <node ref="SHIFT_REG_2" pin="8" pinfunction="CP" pintype="input"/>
+    </net>
+    <net code="49" name="TX">
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="RXD" pintype="output"/>
+    </net>
+    <net code="50" name="unconnected-(DMX_1-A5-Pad5)">
+      <node ref="DMX_1" pin="5" pinfunction="A5" pintype="passive+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(DMX_1-A6-Pad2)">
+      <node ref="DMX_1" pin="2" pinfunction="A6" pintype="passive+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(DMX_1-A7-Pad4)">
+      <node ref="DMX_1" pin="4" pinfunction="A7" pintype="passive+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(DMX_2-A5-Pad5)">
+      <node ref="DMX_2" pin="5" pinfunction="A5" pintype="passive+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(DMX_2-A6-Pad2)">
+      <node ref="DMX_2" pin="2" pinfunction="A6" pintype="passive+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(DMX_2-A7-Pad4)">
+      <node ref="DMX_2" pin="4" pinfunction="A7" pintype="passive+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(DMX_3-A5-Pad5)">
+      <node ref="DMX_3" pin="5" pinfunction="A5" pintype="passive+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(DMX_3-A6-Pad2)">
+      <node ref="DMX_3" pin="2" pinfunction="A6" pintype="passive+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(DMX_3-A7-Pad4)">
+      <node ref="DMX_3" pin="4" pinfunction="A7" pintype="passive+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(DMX_4-A5-Pad5)">
+      <node ref="DMX_4" pin="5" pinfunction="A5" pintype="passive+no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(DMX_4-A6-Pad2)">
+      <node ref="DMX_4" pin="2" pinfunction="A6" pintype="passive+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(DMX_4-A7-Pad4)">
+      <node ref="DMX_4" pin="4" pinfunction="A7" pintype="passive+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(DMX_5-A5-Pad5)">
+      <node ref="DMX_5" pin="5" pinfunction="A5" pintype="passive+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(DMX_5-A6-Pad2)">
+      <node ref="DMX_5" pin="2" pinfunction="A6" pintype="passive+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(DMX_5-A7-Pad4)">
+      <node ref="DMX_5" pin="4" pinfunction="A7" pintype="passive+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(J5-Pin_3-Pad3)">
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(J5-Pin_4-Pad4)">
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(J5-Pin_7-Pad7)">
+      <node ref="J5" pin="7" pinfunction="Pin_7" pintype="passive+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(J5-Pin_8-Pad8)">
+      <node ref="J5" pin="8" pinfunction="Pin_8" pintype="passive+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(J5-Pin_9-Pad9)">
+      <node ref="J5" pin="9" pinfunction="Pin_9" pintype="passive+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(J5-Pin_10-Pad10)">
+      <node ref="J5" pin="10" pinfunction="Pin_10" pintype="passive+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(J5-Pin_11-Pad11)">
+      <node ref="J5" pin="11" pinfunction="Pin_11" pintype="passive+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(J5-Pin_12-Pad12)">
+      <node ref="J5" pin="12" pinfunction="Pin_12" pintype="passive+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(J5-Pin_13-Pad13)">
+      <node ref="J5" pin="13" pinfunction="Pin_13" pintype="passive+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(J5-Pin_14-Pad14)">
+      <node ref="J5" pin="14" pinfunction="Pin_14" pintype="passive+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(J5-Pin_15-Pad15)">
+      <node ref="J5" pin="15" pinfunction="Pin_15" pintype="passive+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(SHIFT_REG_2-Q7-Pad13)">
+      <node ref="SHIFT_REG_2" pin="13" pinfunction="Q7" pintype="output+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(U2-Vref-Pad5)">
+      <node ref="U2" pin="5" pinfunction="Vref" pintype="power_out+no_connect"/>
+    </net>
+  </nets>
+</export>
